@@ -1,5 +1,6 @@
 # Ansj
-新增批量读取文件夹文件，去停用词，去词性内容
+ansj源地址：https://github.com/NLPchina/ansj_seg
+此项目新增批量读取文件夹文件，去停用词，去词性内容，记录代码
 
 1 批量读取文件夹文件并分词
 DirectoryFileContentSegment.java
