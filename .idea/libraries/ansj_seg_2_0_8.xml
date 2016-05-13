@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ansj_seg-2.0.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ansj_seg-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tree_split-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nlp-lang-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
